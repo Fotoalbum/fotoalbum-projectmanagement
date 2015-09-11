@@ -10,7 +10,7 @@ Vagrant.configure("2") do |config|
 
   # Settings for the vm
   config.vm.define :machine do |machine|
-    machine.vm.network :private_network, ip: "10.0.0.2"
+    machine.vm.network :private_network, ip: "10.0.0.3"
     machine.vm.synced_folder ".", "/vagrant", owner: "www-data", group: "www-data"
 
     machine.vm.provider "virtualbox" do |v|
