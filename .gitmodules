@@ -1,0 +1,33 @@
+[submodule "support/puppet/modules/apache"]
+	path = support/puppet/modules/apache
+	url = https://github.com/puppetlabs/puppetlabs-apache.git
+[submodule "support/puppet/modules/apt"]
+	path = support/puppet/modules/apt
+	url = https://github.com/puppetlabs/puppetlabs-apt.git
+[submodule "support/puppet/modules/composer"]
+	path = support/puppet/modules/composer
+	url = https://github.com/willdurand/puppet-composer.git
+[submodule "support/puppet/modules/concat"]
+	path = support/puppet/modules/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "support/puppet/modules/gearman"]
+	path = support/puppet/modules/gearman
+	url = https://github.com/saz/puppet-gearman.git
+[submodule "support/puppet/modules/mongodb"]
+	path = support/puppet/modules/mongodb
+	url = https://github.com/puppetlabs/puppetlabs-mongodb.git
+[submodule "support/puppet/modules/nodejs"]
+	path = support/puppet/modules/nodejs
+	url = https://github.com/puppet-community/puppet-nodejs.git
+[submodule "support/puppet/modules/php"]
+	path = support/puppet/modules/php
+	url = https://github.com/jippi/puppet-php.git
+[submodule "support/puppet/modules/stdlib"]
+	path = support/puppet/modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "support/puppet/modules/supervisord"]
+	path = support/puppet/modules/supervisord
+	url = https://github.com/ajcrowe/puppet-supervisord.git
+[submodule "support/puppet/modules/wget"]
+	path = support/puppet/modules/wget
+	url = https://github.com/maestrodev/puppet-wget.git
