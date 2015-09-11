@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+.env
+.idea
+
+.vagrant
+
+public/css/app.css
+public/css/app.css.map
+public/fonts
